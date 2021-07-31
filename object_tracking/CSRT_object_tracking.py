@@ -2,7 +2,7 @@ import cv2
 
 tracker = cv2.TrackerCSRT_create()
 
-video = cv2.VideoCapture('../material/Videos/race.mp4')
+video = cv2.VideoCapture('../material/Videos/street.mp4')
 
 ok, frame = video.read()
 

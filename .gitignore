@@ -4,3 +4,7 @@ face_recognition/__MACOSX
 face_recognition/.ipynb_checkpoints
 face_recognition/yalefaces
 face_recognition/lbph_classifier.yml
+image_classification/cat_dog_1/
+image_classification/homer_bart_1/
+image_classification/weights1.hdf5
+image_classification/weights2.hdf5

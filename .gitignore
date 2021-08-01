@@ -17,3 +17,5 @@ DNN_image_classification/features.csv
 DNN_image_classification/network1.json
 DNN_image_classification/network2.json
 CNN_image_classification/cat_dog_2/
+transfer_learning_&_fine_tuning/cat_dog_2
+transfer_learning_&_fine_tuning/homer_bart_2

@@ -22,3 +22,5 @@ transfer_learning_&_fine_tuning/homer_bart_2
 emotion_classification/emotion_test01_result.avi
 emotion_classification/fer2013/
 emotion_classification/hello.png
+autoencoders/autoencoder_fraud.h5
+autoencoders/creditcard.csv
